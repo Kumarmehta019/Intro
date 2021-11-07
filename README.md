@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Kumarmehta019@gmail.com**
 
-- ⚡ Fun fact **I can still practise law 👨🏽‍⚖️**
+- ⚡ Fun fact... **I can still practise law 👨🏽‍⚖️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
