@@ -1,4 +1,4 @@
-<h1 align="center"><h1>Hello world</h1> I'm Kumar!😎</h1>
+<h1 align="center"><h1><h1>Hello world</h1></h1> I'm Kumar!😎</h1>
 <h3 align="center">I'm a former London based property solicitor who is transitioning his career to become a software engineer. 🚀</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kumarmehta019?tab=repositories](https://github.com/Kumarmehta019?tab=repositories)
